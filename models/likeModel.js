@@ -1,7 +1,6 @@
 //import mongoose
 const mongoose = require("mongoose");
 
-
 //route handler
 
 const likeSchema = new mongoose.Schema({
